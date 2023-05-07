@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.WriteReviewActivity">
+
+    <!--Toolbar-->
+    <RelativeLayout
+        android:id="@+id/toolbarRl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_rect01">
+
+        <ImageButton
+            android:id="@+id/backBtn"
+            android:src="@drawable/ic_back_white"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@null"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Write Review"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+    </RelativeLayout>
+
+    <!-- shop image -->
+    <com.blogspot.atifsoftwares.circularimageview.CircularImageView
+        android:id="@+id/profileIv"
+        android:layout_below="@+id/toolbarRl"
+        android:layout_width="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/ic_store_gray"
+        app:c_border="true"
+        app:c_border_width="2dp"
+        android:layout_gravity="center"
+        app:c_border_color="@color/colorPrimary"/>
+
+    <TextView
+        android:id="@+id/shopNameTv"
+        android:layout_below="@id/profileIv"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Shop Name"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/labelTv"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_below="@id/shopNameTv"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/colorBlack"
+        android:text="How was your experience with this seller? \nYour feedback is important to improve our quality of services"/>
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_below="@id/labelTv"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:numStars="5"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/reviewEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ratingBar"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/shape_rect02"
+        android:gravity="top"
+        android:hint="Type Review..."
+        android:minHeight="100dp"
+        android:padding="10dp" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/submitBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:src="@drawable/ic_done_white"
+        app:tint="@android:color/white"
+        app:backgroundTint="@color/darkBlue"/>
+
+</RelativeLayout>

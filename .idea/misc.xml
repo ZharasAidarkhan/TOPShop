@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desktop-Grocery App/app/src/main/res/drawable/shape_circle01.xml" value="0.1715" />
+        <entry key="..\:/Desktop-Grocery App/app/src/main/res/drawable/shape_rect01.xml" value="0.1715" />
+        <entry key="..\:/Desktop-Grocery App/app/src/main/res/drawable/shape_rect02.xml" value="0.1715" />
+        <entry key="..\:/Desktop-Grocery App/app/src/main/res/layout/activity_forgot_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Desktop-Grocery App/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Desktop-Grocery App/app/src/main/res/layout/activity_register_seller.xml" value="0.22" />
+        <entry key="..\:/Desktop-Grocery App/app/src/main/res/layout/activity_register_user.xml" value="0.25" />
+        <entry key="..\:/Desktop-Grocery App/app/src/main/res/layout/activity_regsitration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Desktop-Grocery App/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/ic_add_shopping_primary.xml" value="0.13" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/ic_add_shopping_white.xml" value="0.13" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/ic_categories_gray.xml" value="0.1055" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/ic_down_gray.xml" value="0.1055" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1295" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.13" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/row_review.xml" value="0.1" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/shape_circle01.xml" value="0.13" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/shape_circle03.xml" value="0.1275" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/shape_rect01.xml" value="0.13" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/shape_rect02.xml" value="0.13" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/shape_rect03.xml" value="0.1565" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/shape_rect04.xml" value="0.1565" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/shape_rect05.xml" value="0.1165" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/drawable/shape_rect06.xml" value="0.1275" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_add_product.xml" value="0.22" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_edit_product.xml" value="0.2" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_main_seller.xml" value="0.25" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_main_user.xml" value="0.25" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_order_details_seller.xml" value="0.2" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_order_details_users.xml" value="0.22" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_profile_edit_seller.xml" value="0.25" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_profile_edit_user.xml" value="0.25" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_register_seller.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_register_user.xml" value="0.22" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_shop_details.xml" value="0.22" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_shop_reviews.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/activity_write_review.xml" value="0.22" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/bs_product_details_seller.xml" value="0.22" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/dialog_cart.xml" value="0.25" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/dialog_quantity.xml" value="0.25" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/row_cartitem.xml" value="0.33" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/row_order_user.xml" value="0.4071969696969697" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/row_ordereditem.xml" value="0.25" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/row_product_seller.xml" value="0.33" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/row_product_user.xml" value="0.2956152758132956" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/row_review.xml" value="0.25" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/layout/row_shop.xml" value="0.16" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1055" />
+        <entry key="..\:/Users/Жарас/Desktop/Grocery App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1055" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

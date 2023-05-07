@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TOPshop</string>
+    <string name="email">Email:</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="country">Country</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="complete_address">Complete Address</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register_seller">Are you a seller? Register as Seller</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="discount">10% OFF</string>
+    <string name="title">Title</string>
+    <string name="_1_kg">1 KG</string>
+</resources>
